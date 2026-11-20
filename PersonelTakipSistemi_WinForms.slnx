@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="PersonelTakipSistemi_DataAccess/PersonelTakipSistemi_DataAccess.csproj" Id="9f0d566a-b83c-4391-a04e-b196b9b7c144" />
+  <Project Path="PersonelTakipSistemi_DTO/PersonelTakipSistemi_DTO.csproj" Id="28e5e3bf-b38b-4e96-b78d-a7d2d73bd04b" />
+  <Project Path="PersonelTakipSistemi_Entites/PersonelTakipSistemi_Entites.csproj" Id="cf4d1ec8-d6da-4c2e-ab1e-84a8c265c24a" />
+  <Project Path="PersonelTakipSistemi_Presentation/PersonelTakipSistemi_Business.csproj" Id="d8dcf322-479f-491e-9ce4-b377d15598d3" />
+  <Project Path="PersonelTakipSistemi_UI/PersonelTakipSistemi_UI.csproj" Id="cd416475-825f-4436-9fb4-b99c7435ab9c" />
+</Solution>

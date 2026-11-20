@@ -1,0 +1,81 @@
+## Visual Studio / .NET Geçici Dosyaları ve Derleme Çıktıları
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Visual Studio Kullanıcıya Özel Dosyalar ve Önbellekler
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+*.rsuser
+
+## NuGet Paketleri (Restore ile geri yüklenebilir)
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+*.nuget.props
+*.nuget.targets
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Test Sonuçları ve Kapsam Raporları
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
+*.coverage
+*.coveragexml
+
+## Yerel Veritabanı Dosyaları (SQLite, LocalDB vb.)
+*.mdf
+*.ldf
+*.ndf
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+## Hassas Veriler ve Yerel Yapılandırmalar
+appsettings.Development.json
+appsettings.Local.json
+*.secrets.json
+
+## Windows ve İşletim Sistemi Dosyaları
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.lnk
+.DS_Store
+
+## JetBrains Rider (Alternatif IDE kullanılıyorsa)
+.idea/
+*.sln.iml
+
+## Diğer Derleme / Yedek Dosyaları
+*.cache
+*.tmp
+*.temp
+*.bak
+*~
